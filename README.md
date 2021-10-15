@@ -1,7 +1,5 @@
 # Hi there, I'm Ashley Sato, Nice to meet you!👋
 
-I'm ██-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community.
-
 - 🔭 I’m currently working on some projects with [@fspvsite](https://github.com/fspvsite)
 - 🌱 I’m currently learning Java & Indian Languages
 - 👯 I’m looking to collaborate and make friends
