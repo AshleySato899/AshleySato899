@@ -1,4 +1,7 @@
 # Hi there, I'm Ashley Sato, Nice to meet you!👋
+![](https://raw.githubusercontent.com/AshleySato899/AshleySato899/main/banner-4.png)
+
+I'm an 15-year-old girl trying to make friends and building full-stack web applications and mobile apps. I love to share, dream, code and expertise with the dev community. I'm just living my life alone cause my parents died 3 years ago and my brother is far away (He's at tokyo btw)
 
 - 🔭 I’m currently working on some projects with [@fspvsite](https://github.com/fspvsite)
 - 🌱 I’m currently learning Java & Indian Languages
