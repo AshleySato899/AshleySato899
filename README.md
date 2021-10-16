@@ -5,7 +5,7 @@ I'm an 15-year-old girl trying to make friends and building full-stack web appli
 
 - 🔭 I’m currently working on some projects with [@fspvsite](https://github.com/fspvsite)
 - 🌱 I’m currently learning Java & Indian Languages
-- 👯 I’m looking to collaborate and make friends
+- 👯 I would like to collaborate and make friends
 - 🤔 I’m looking for help with Redux
 - 💬 You can ask me about Python
 - 📫 How to reach me: [Discord](https://discord.com/users/787570670409613332/)
