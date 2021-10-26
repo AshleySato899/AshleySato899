@@ -16,6 +16,7 @@ I'm an 15-year-old girl trying to make friends and building full-stack web appli
 - [📹 YouTube Gaming](https://www.youtube.com/channel/UCjf5QOCXJVXBY-HDdcPaS6A)
 - [📷 Instagram Profile](https://www.instagram.com/ashleysato788/)
 - [🥛 Facebook Profile](https://www.facebook.com/ashli.sato)
+- [💬 Join my Discord](https://discord.gg/vAKPqTmxsn)
 - [📨 DM me on Discord](https://discord.com/users/787570670409613332)
 
 [![](https://discord.c99.nl/widget/theme-1/787570670409613332.png)](https://discord.com/users/787570670409613332/)
