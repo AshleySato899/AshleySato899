@@ -4,7 +4,7 @@
 I'm an 15-year-old girl trying to make friends and building full-stack web applications and mobile apps. I love to share, dream, code and expertise with the dev community. I'm just living my life alone cause my parents died 3 years ago and my brother is far away (He's at tokyo btw)
 
 - 🔭 I’m currently working on [Apk 899](https://github.com/AshleySato899/apk889.blogspot.com) & some projects with [@fspvsite](https://github.com/fspvsite)
-- 🌱 I’m currently learning Java & Indian Languages
+- 🌱 I’m currently learning Elixir & Indian Languages
 - 👯 I would like to collaborate and make friends
 - 🤔 I’m looking for help with Redux
 - 💬 You can ask me about Python
