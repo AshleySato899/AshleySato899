@@ -8,7 +8,7 @@
   
 - <img src="https://images.emojiterra.com/twitter/512px/1f1ef-1f1f5.png" alt="." width="16" height="16"/> Student from Japan  
 - <img src="https://emoji.discadia.com/emojis/dbb2c640-1f12-4eb1-a482-3ba728c7a737.PNG" alt="." width="16" height="16"/> An Stupid Idiott
-- <img src="https://cdn.discordapp.com/emojis/912296822939193374.gif" alt="."  width="16" height="16" /> I am  years old. 
+- <img src="https://cdn.discordapp.com/emojis/912296822939193374.gif" alt="."  width="16" height="16" /> Wish me at August 8 2006 <3 
 - 🎮 I enjoy playing Open-world, FPS Games, Statergy, Platformer, Rhythm *and some lewd visual novels (shhh, don't tell anyone!)* <img src="https://cdn.discordapp.com/emojis/941332005352792174.png?size=20" alt="."/>
 
  
